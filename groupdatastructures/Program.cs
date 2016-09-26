@@ -88,6 +88,7 @@ namespace groupdatastructures
         //3. DISPLAY STACK (Do we need to maintain the contents of the stack for use after this function?
         static void displayStck(Stack<string> s)
         {
+            Stack<string> stack2 = new Stack<string>();
             string i;
             if (s.Count() <=0)
             {
@@ -96,14 +97,19 @@ namespace groupdatastructures
             while (s.Count() > 0)
             {
                 i = s.Pop();
+                stack2.Push(i);
                 Console.WriteLine(i);
-            }               
+            }
+            while (stack2.Count() > 0)
+            {
+                s.Push(stack2.Pop());
+            }
         }
 
 
         //4. DELETE STACK ITEM 
-        //if the item is in the stack, pop each item until you find it and add those items to a queue
-        //pop the item to be deleted then add the item from the queue back onto the stack.
+        //if the item is in the stack, pop each item until you find it and add those items to a second stack
+        //pop the item to be deleted then add the item from the new stack back onto the original stack.
         static void stckDelete(Stack<string> s, string item)
         {
             Stack<string> stack2 = new Stack<string>();
