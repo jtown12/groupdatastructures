@@ -7,3 +7,6 @@ C:\Users\ShaylaGale\Documents\GitHub\IS403-DataStucturesGroup\groupdatastructure
 C:\Users\Shayla\Documents\GitHub\groupdatastructures\groupdatastructures\bin\Debug\groupdatastructures.exe.config
 C:\Users\Shayla\Documents\GitHub\groupdatastructures\groupdatastructures\obj\Debug\groupdatastructures.exe
 C:\Users\Shayla\Documents\GitHub\groupdatastructures\groupdatastructures\obj\Debug\groupdatastructures.pdb
+C:\Users\Shayla\Documents\GitHub\groupdatastructures\groupdatastructures\bin\Debug\groupdatastructures.exe
+C:\Users\Shayla\Documents\GitHub\groupdatastructures\groupdatastructures\bin\Debug\groupdatastructures.pdb
+C:\Users\Shayla\Documents\GitHub\groupdatastructures\groupdatastructures\obj\Debug\groupdatastructures.csprojResolveAssemblyReference.cache
