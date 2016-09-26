@@ -159,7 +159,7 @@ namespace groupdatastructures
             if (contains)   //if the item is in the stack say so and show how long it took to find
             {
                 Console.WriteLine(item + " was found");
-                Console.WriteLine(sw.ToString());
+                Console.WriteLine(sw.Elapsed.ToString());
             }
             else
             {
