@@ -19,3 +19,6 @@ C:\Users\Shayla\Documents\GitHub\groupdatastructures\groupdatastructures\bin\Deb
 C:\Users\Shayla\Documents\GitHub\groupdatastructures\groupdatastructures\bin\Debug\groupdatastructures.pdb
 C:\Users\Shayla\Documents\GitHub\groupdatastructures\groupdatastructures\obj\Debug\groupdatastructures.csprojResolveAssemblyReference.cache
 >>>>>>> origin/master
+\\Mac\Home\Desktop\groupdatastructures\groupdatastructures\bin\Debug\groupdatastructures.exe.config
+\\Mac\Home\Desktop\groupdatastructures\groupdatastructures\obj\Debug\groupdatastructures.exe
+\\Mac\Home\Desktop\groupdatastructures\groupdatastructures\obj\Debug\groupdatastructures.pdb
